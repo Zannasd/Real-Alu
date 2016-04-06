@@ -206,4 +206,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="tristate" val="false"/>
     </comp>
   </circuit>
+  <circuit name="gf">
+    <a name="circuit" val="gf"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <comp loc="(200,230)" name="NOT in_b"/>
+    <comp loc="(130,320)" name="LSR in_b"/>
+  </circuit>
 </project>
